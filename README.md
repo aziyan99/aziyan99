@@ -27,12 +27,14 @@ Here are some ideas to get you started:
 <!--I am Currently learning  Developer, I love programming, writing and traveling, Feel free to connect with me and learn together.
 
 Software engineering is a never-ending puzzle that I am passionately engaged in solving. I believe in the power of programming to transform and improve the lives of people around the world.-->
-  
 
-📊 **This Week I Spent My Time On:**
+<!--
+📊 **This Week I Spent My Time On:** -->
 <!--START_SECTION:waka-->
+<!--
 ```text
 ```
+-->
 <!--END_SECTION:waka-->
 
 
