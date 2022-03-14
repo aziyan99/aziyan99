@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 Software engineering is a never-ending puzzle that I am passionately engaged in solving. I believe in the power of programming to transform and improve the lives of people around the world.-->
 
-I am a Web Developer,  IOS Developer enthusiast, and Machine Learning enthusiast. Spent more than 3 years in web programming with a focus on Backend service and learning about Machine Learning. Skilled in PHP, Javascript, Python, and Linux environments. I was also curious about iOS programming and Machine Learning, love to work collaboratively in a team and was a self-taught learner.
+I am a Web Developer,  iOS Developer enthusiast, and Machine Learning enthusiast. Spent more than 3 years in web programming with a focus on Backend service and learning about Machine Learning. Skilled in PHP, Javascript, Python, and Linux environments. I was also curious about iOS programming and Machine Learning, love to work collaboratively in a team and was a self-taught learner.
 
 
 Currently, I am undergraduate student from Informatics Department in Raja Ali Haji Marine University, Tanjungpinang, Indonesia.
