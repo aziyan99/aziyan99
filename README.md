@@ -1,20 +1,3 @@
-<!--
-![Metrics](https://metrics.lecoq.io/aziyan99?template=classic&config.timezone=Asia%2FJakarta)
-
-**aziyan99/aziyan99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Hi there, I'm <a href="https://aziyan99.github.io" target="_blank">Raja Azian</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raja-azian/)
@@ -24,25 +7,10 @@ Here are some ideas to get you started:
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=aziyan99.aziyan99)
 
-<!--I am Currently learning  Developer, I love programming, writing and traveling, Feel free to connect with me and learn together.
-
-Software engineering is a never-ending puzzle that I am passionately engaged in solving. I believe in the power of programming to transform and improve the lives of people around the world.-->
-
 I am a Web Developer,  iOS Developer enthusiast, and Machine Learning enthusiast. Spent more than 3 years learning in web programming with a focus on Backend service and learning about Machine Learning. Skilled in PHP, Javascript, Python, and Linux environments. I was also curious about iOS programming and Machine Learning, love to work collaboratively in a team and was a self-taught learner.
 
 
 Currently, I am undergraduate student from Informatics Department in Raja Ali Haji Marine University, Tanjungpinang, Indonesia.
-
-
-<!--
-📊 **This Week I Spent My Time On:** -->
-<!--START_SECTION:waka-->
-<!--
-```text
-```
--->
-<!--END_SECTION:waka-->
-
 
 📈 **GitHub Stats:**
 
