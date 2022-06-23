@@ -6,8 +6,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iniezzy)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/rajaazian_)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=aziyan99.aziyan99)
-
 I am a Web Developer,  iOS Developer enthusiast, and Machine Learning enthusiast. Spent more than 3 years learning in web programming with a focus on Backend service and learning about Machine Learning. Skilled in PHP, Javascript, Python, and Linux environments. I was also curious about iOS programming and Machine Learning, love to work collaboratively in a team and was a self-taught learner.
 
 
