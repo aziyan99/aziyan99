@@ -18,6 +18,8 @@ Currently, I am undergraduate student from Informatics Department in Raja Ali Ha
 - 2022 &rarr; [Laravel AdminLTE starter](https://github.com/aziyan99/laravel-adminlte-starter)
 - 2022 &rarr; [Sqeeder](https://github.com/aziyan99/sqeeder)
 - 2022 &rarr; [Simple react blog template](https://github.com/aziyan99/simple-react-blog-template)
+- 2021 &rarr; [Support ticket system](https://github.com/aziyan99/simple-support-ticket-system)
+- 2021 &rarr; [Laravel vue starter](https://github.com/aziyan99/laravel-vue-starter)
 - 2020 &rarr; [Py generate-read QRCode](https://github.com/aziyan99/python-generate-read-qrcode)
 - 2020 &rarr; [Microblog](https://github.com/aziyan99/microblog)
 - 2020 &rarr; [Lablog](https://github.com/aziyan99/la-blog)
