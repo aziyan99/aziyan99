@@ -9,6 +9,7 @@ Currently, I am undergraduate student from Informatics Department in Raja Ali Ha
 
 - 2022 &rarr; [KBBIReferences](https://github.com/aziyan99/kbbireferences)
 - 2022 &rarr; [Laravel Starter](https://github.com/aziyan99/laravel-starter)
+- 2022 &rarr; [Laravel CoreUI Starter](https://github.com/aziyan99/laravel-coreui-starter)
 - 2022 &rarr; [Simplcia](https://github.com/aziyan99/simplicia)
 - 2022 &rarr; [Brand name brainstorming](https://github.com/aziyan99/js-brand-name-brainstorming)
 - 2022 &rarr; [Laravel AdminLTE starter](https://github.com/aziyan99/laravel-adminlte-starter)
