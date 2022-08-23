@@ -7,6 +7,8 @@ Currently, I am undergraduate student from Informatics Department in Raja Ali Ha
 
 ### My open source projects on GitHub
 
+- 2022 &rarr; [User Generator](https://github.com/aziyan99/moodle-local_usergenerator)
+- 2022 &rarr; [Custom Log](https://github.com/aziyan99/moodle-local_customlog)
 - 2022 &rarr; [KBBIReferences](https://github.com/aziyan99/kbbireferences)
 - 2022 &rarr; [Laravel Starter](https://github.com/aziyan99/laravel-starter)
 - 2022 &rarr; [Laravel CoreUI Starter](https://github.com/aziyan99/laravel-coreui-starter)
