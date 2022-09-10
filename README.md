@@ -7,6 +7,7 @@ Currently, I am undergraduate student from Informatics Department in Raja Ali Ha
 
 ### My open source projects on GitHub
 
+- 2022 &rarr; [Hugowi](https://github.com/aziyan99/gohugo-theme-hugowi)
 - 2022 &rarr; [Swift TFIDF](https://github.com/aziyan99/SwiftTfIdf)
 - 2022 &rarr; [User Generator](https://github.com/aziyan99/moodle-local_usergenerator)
 - 2022 &rarr; [Custom Log](https://github.com/aziyan99/moodle-local_customlog)
