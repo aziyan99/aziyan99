@@ -34,6 +34,6 @@ You can also find examples of code at my [GistGithub](https://gist.github.com/az
 ### Where you can find me
 - [https://www.linkedin.com/in/raja-azian/](https://www.linkedin.com/in/raja-azian/)
 - [https://aziyan99.github.io](https://aziyan99.github.io)
-- [https://twitter.com/iniezzy](https://twitter.com/iniezzy)
+- [https://twitter.com/iniiezzy](https://twitter.com/iniiezzy)
 - [https://instagram.com/rajaazian_](https://instagram.com/rajaazian_)
 
