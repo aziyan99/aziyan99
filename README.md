@@ -1,6 +1,6 @@
 ### Hi there, I'm <a href="https://aziyan99.github.io" target="_blank">Raja Azian</a> 
 
-I am a Web Developer,  iOS Developer enthusiast, and Machine Learning enthusiast. Spent more than 3 years learning in web programming with a focus on Backend service and learning about Machine Learning. Skilled in PHP, Javascript, Python, and Linux environments. I was also curious about iOS programming and Machine Learning, love to work collaboratively in a team and was a self-taught learner.
+I am a Web Developer,  iOS Developer enthusiast, and Machine Learning enthusiast. Spent more than 3 years learning in web programming with a focus on Backend service and learning about Machine Learning. Skilled in PHP, Javascript, Python, and Linux environments. Curious about iOS programming and Machine Learning, love to work collaboratively and was a self-taught learner.
 
 
 Currently, I am undergraduate student from Informatics Department in Raja Ali Haji Marine University, Tanjungpinang, Indonesia.
