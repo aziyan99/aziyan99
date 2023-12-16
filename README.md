@@ -1,11 +1,8 @@
 ### Hi there, I'm <a href="https://aziyan99.github.io" target="_blank">Raja Azian</a> 
 
-I am a Web Developer,  iOS Developer enthusiast, and Machine Learning enthusiast. Spent more than 3 years learning in web programming with a focus on Backend service and learning about Machine Learning. Skilled in PHP, Javascript, Python, and Linux environments. Curious about iOS programming and Machine Learning, love to work collaboratively and was a self-taught learner.
+I am a Web Developer,  iOS Developer enthusiast, and Machine Learning enthusiast. Spent more than 3 years learning web programming with a focus on Backend service and learning about Machine Learning. Skilled in PHP, Javascript, Python, and Linux environments. Curious about iOS programming and Machine Learning, love to work collaboratively, and am a self-taught learner.
 
-
-Currently, I am undergraduate student from Informatics Department in Raja Ali Haji Marine University, Tanjungpinang, Indonesia.
-
-### My open source projects on GitHub
+### My open-source projects on GitHub
 
 - 2022 &rarr; [Internship Report LaTex Template](https://github.com/aziyan99/latex-internship-report-template)
 - 2022 &rarr; [Hugowi](https://github.com/aziyan99/gohugo-theme-hugowi)
@@ -31,7 +28,7 @@ Currently, I am undergraduate student from Informatics Department in Raja Ali Ha
 
 You can also find examples of code at my [GistGithub](https://gist.github.com/aziyan99)
 
-### Where you can find me
+### Where you can find me?
 - [https://www.linkedin.com/in/raja-azian/](https://www.linkedin.com/in/raja-azian/)
 - [https://aziyan99.github.io](https://aziyan99.github.io)
 - [https://twitter.com/iniiezzy](https://twitter.com/iniiezzy)
