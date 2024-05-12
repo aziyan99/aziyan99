@@ -2,7 +2,7 @@
 
 I am a Web Developer,  iOS Developer enthusiast, and Machine Learning enthusiast. Spent more than 3 years learning web programming with a focus on Backend service and learning about Machine Learning. Skilled in PHP, Javascript, Python, and Linux environments. Curious about iOS programming and Machine Learning, love to work collaboratively, and am a self-taught learner.
 
-### My open-source projects on GitHub
+### My Personal (open-source like ✌️) projects on GitHub
 
 - 2022 &rarr; [Internship Report LaTex Template](https://github.com/aziyan99/latex-internship-report-template)
 - 2022 &rarr; [Hugowi](https://github.com/aziyan99/gohugo-theme-hugowi)
